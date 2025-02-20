@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data and models
+data/*
+!data/README.md
+models/*
+!models/README.md
+
+# Logs
+*.log
