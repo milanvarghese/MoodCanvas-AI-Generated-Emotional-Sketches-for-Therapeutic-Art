@@ -11,10 +11,8 @@ env/
 .ipynb_checkpoints
 
 # Data and models
-data/*
-!data/README.md
-models/*
-!models/README.md
+# data/*
+# models/*
 
 # Logs
 *.log
