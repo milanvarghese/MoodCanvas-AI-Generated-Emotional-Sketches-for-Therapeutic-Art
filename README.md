@@ -15,7 +15,7 @@ Note: These files are not tracked in Git due to their size.
 - **Whisper**: Get from OpenAI [link].
 - **Sentiment Analysis**: Use Hugging Face Transformers; no separate download needed.
 
-Note: Model weights are excluded from Git due to size.
+Note: Model weights are excluded from Git due to size
 
 
 # MoodCanvas
